@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[magicando]]></title>
+        <description><![CDATA[magicando]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 16 Jun 2016 01:18:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Magicando]]></title>
+            <description><![CDATA[<p>Mágicando, A Escola da Mágica</p>]]></description>
+            <link>undefinedmagicando/index.html</link>
+            <guid isPermaLink="false">e1d70ca8-cd74-4822-a281-3825314a81fa</guid>
+            <pubDate>Thu, 16 Jun 2016 01:18:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
